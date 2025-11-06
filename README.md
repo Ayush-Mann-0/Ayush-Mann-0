@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Sign Board Detection System](https://github.com/Ayush-Mann-0/Sign-Board-Detection).
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning about **Android**
 
 - 💬 Ask me about **Python, JavaScript, Kotlin, Android Development**
 
